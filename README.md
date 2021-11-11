@@ -1,0 +1,2 @@
+# Cosmos
+Exercitiu pentru angajare.
